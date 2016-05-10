@@ -1,0 +1,12 @@
+Zadatak2
+
+Kreirati klasu Member sa atributima 'id', 'firstName', 'lastName' i 'birthDate'. Dodati getere i setere. Dodati toString metodu.
+
+
+Ucitati podatke o poslaniku iz fajla 'data/member.json' u novi Java objekat klase Member, dodati u polje 'birthDate' 
+vrednost "01.12.1970" i upisati u fajl 'data/updatedMember.json'.
+
+
+Kreirati klasu Movie1 sa atributima 'memberid', 'name', 'surname' i 'dateOfBirth'.
+
+Ucitati podatke o poslaniku iz fajla 'data/member.json' u novi Java objekat klase Member1 i ispisati njegove podatke u konzoli.
